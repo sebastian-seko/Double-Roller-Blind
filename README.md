@@ -3,7 +3,7 @@
 Original code from [original code] https://github.com/RoadkillUK/Motor-on-a-Roller-Blind-for-ESPHOME
 
 This setup uses a NodeMCUv3 and 2x (28BYJ-48 stepper motor + ULN2003 driver board)
-
+``` 
 Connection Motor 1
 
 Driver IN1 to D0 (GPIO 16) NodeMCU
@@ -21,3 +21,4 @@ Driver IN3 to D7 (GPIO 13) NodeMCU
 Driver IN4 to D5 (GPIO 14) NodeMCU
 Driver Vin to Power Supply VCC
 Driver GND to Power Supply GND
+```
